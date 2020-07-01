@@ -1,0 +1,9 @@
+# To Run 
+
+`terraform init `
+`terraform get `
+`terraform plan `
+`terraform apply ` 
+ 
+# To add
+  apply with env vars xD 
